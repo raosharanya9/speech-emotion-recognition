@@ -1,0 +1,11 @@
+venv/
+__pycache__/
+*.pyc
+*.pkl
+*.pickle
+*.wav
+*.mp3
+*.m4a
+*.log
+.DS_Store
+.env
